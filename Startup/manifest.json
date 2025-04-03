@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Startup Page",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A simple startup page, with DuckDuckGo as the default search engine.",
   "chrome_url_overrides": {
     "newtab": "index.html"
